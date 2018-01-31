@@ -67,3 +67,6 @@ target/
 .idea/*
 *.iml
 .vscode
+
+# TensorFlow checkpoints
+tf_checkpoints

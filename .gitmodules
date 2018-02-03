@@ -4,3 +4,6 @@
 [submodule "greydanus-scribe"]
 	path = greydanus-scribe
 	url = https://github.com/grisaitis/greydanus-scribe
+[submodule "snowkylin-rnn-handwriting-generation"]
+	path = snowkylin-rnn-handwriting-generation
+	url = https://github.com/grisaitis/snowkylin-rnn-handwriting-generation

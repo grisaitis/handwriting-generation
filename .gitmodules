@@ -7,3 +7,6 @@
 [submodule "snowkylin-rnn-handwriting-generation"]
 	path = snowkylin-rnn-handwriting-generation
 	url = https://github.com/grisaitis/snowkylin-rnn-handwriting-generation
+[submodule "write-rnn-tensorflow"]
+	path = SlipknotTN-write-rnn-tensorflow
+	url = https://github.com/SlipknotTN/write-rnn-tensorflow

@@ -1,3 +1,6 @@
 [submodule "otoro-write-lstm-mdn"]
 	path = otoro-write-lstm-mdn
 	url = https://github.com/grisaitis/otoro-write-lstm-mdn
+[submodule "greydanus-scribe"]
+	path = greydanus-scribe
+	url = https://github.com/grisaitis/greydanus-scribe

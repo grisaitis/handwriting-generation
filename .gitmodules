@@ -10,3 +10,6 @@
 [submodule "write-rnn-tensorflow"]
 	path = SlipknotTN-write-rnn-tensorflow
 	url = https://github.com/SlipknotTN/write-rnn-tensorflow
+[submodule "grisaitis-write-rnn-tensorflow"]
+	path = grisaitis-write-rnn-tensorflow
+	url = https://github.com/grisaitis/write-rnn-tensorflow
